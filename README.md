@@ -1,5 +1,5 @@
 # 💫 About Me:
-Year 2 SMU Information System Student
+Year 3 SMU Information System Student
 
 
 # 💻 Tech Stack:
